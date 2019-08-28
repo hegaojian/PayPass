@@ -2,4 +2,4 @@
 完全仿美团设置密码和修改密码，页面与细节一样样的
 
 示例图片:  
-![示例图片](http://www.apkbus.com/data/attachment/forum/201803/10/174026oc23jp82j99gx8hx.gif)  
+![示例图片](https://upload-images.jianshu.io/upload_images/9305757-aa03c16ec4e869e9.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/360/format/webp)  
